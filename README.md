@@ -21,7 +21,7 @@ The Sales Superstore Dashboard project aims to analyze and visualize the sales p
 
 - **Calculated Measures**: Using the DAX formula language, calculated measures are created to derive additional insights from the data. Examples of calculated measures include sales growth, and sum of sales.
 
-<p align="left"> <img src="https://drive.google.com/uc?export=download&id=1V7ghC9WLyD8XKEywSVhddncW-cHCYLif" alt="Dashboard" /> </p>
+<p align="left"> <img src="https://drive.google.com/uc?export=download&id=1WcqPiX9FT8v-0v0nL6rf9-0Tq5ziRJTx" alt="Dashboard" /> </p>
 
 ## Results
 
