@@ -3,8 +3,7 @@
 The Sales Superstore Dashboard project aims to analyze and visualize the sales performance of a retail company using the Sales Superstore dataset. The dashboard provides actionable insights into sales trends, customer behavior, product performance, geographical analysis, order and shipping data, and profitability. By leveraging data visualization and analytics, the dashboard helps optimize sales, improve customer management, and drive business growth.
 
 ## Problems aimed to solve
-- Sales Analysis and Performance Monitoring
-- Customer Segmentation and Behavior Analysis
+- Sales Analysis
 - Product Performance and Inventory Management
 - Geographical Analysis and Market Insights
 - Order and Shipping Analysis
@@ -27,10 +26,11 @@ The Sales Superstore Dashboard project aims to analyze and visualize the sales p
 ## Results
 
 
-## Limitations and challenges.
+### Limitations and challenges.
 
 - **Limited Interactivity:** Depending on the design and functionality of the dashboard, the level of interactivity and drill-down capabilities may be limited, restricting users' ability to explore data and gain deeper insights.
 
 - **User Expertise:** The dashboard assumes that users have a basic understanding of data analysis and interpretation. Users with limited data literacy or domain knowledge may face challenges in effectively utilizing the dashboard.
-- 
+
 - **Challenges:** Limited knowledge of DAX language requires learning it for the project, including understanding syntax, complex calculations, optimization and staying updated with DAX's evolving features.
+
