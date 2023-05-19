@@ -40,6 +40,10 @@ Profit          | Profit earned from the order
 Shipping Cost   | Cost of shipping the order
 Order Priority  | Priority level of the order
 
+
+<p align="left"> <img src="https://drive.google.com/uc?export=download&id=1qE1zhviToSnm9b6pUkOW0yNvgFVLX5sG" alt="Orders_table" /> </p>
+
+
 - Table 2: Returns
 
 Column Name | Description
@@ -48,12 +52,17 @@ Returned    | Indicates whether the order was returned or not
 Order ID    | Unique identifier for each order
 Region      | Region where the order was placed or returned
 
+<p align="left"> <img src="https://drive.google.com/uc?export=download&id=1vzdBPAZedVz7TNcsqjBN8HwC0iCWzY5_" alt="Returns_table" /> </p>
+
+
 - Table 3: People
 
 Column Name | Description
 ------------|------------------------------------
 Person      | Name or identifier of a person
 Region      | Region associated with the person
+
+![Alt text]("https://drive.google.com/uc?export=download&id=1XAod5WzKyg9xUVrg51IuooYHzaKLEyUz")
 
 ## Methodology
 
