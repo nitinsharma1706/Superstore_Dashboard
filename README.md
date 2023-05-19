@@ -62,7 +62,7 @@ Column Name | Description
 Person      | Name or identifier of a person
 Region      | Region associated with the person
 
-![Alt text]("https://drive.google.com/uc?export=download&id=1XAod5WzKyg9xUVrg51IuooYHzaKLEyUz")
+<p align="left"> <img src="https://drive.google.com/uc?export=download&id=1XAod5WzKyg9xUVrg51IuooYHzaKLEyUz" alt="Orders_table" /> </p>
 
 ## Methodology
 
