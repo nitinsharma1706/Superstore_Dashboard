@@ -55,7 +55,7 @@ Column Name | Description
 Person      | Name or identifier of a person
 Region      | Region associated with the person
 
-## Methodlogy
+## Methodology
 
 - **Dataset Preparation**: The Superstore sales data is obtained and imported into Power Query for data cleaning and transformation.
 
