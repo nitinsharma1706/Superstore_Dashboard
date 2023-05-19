@@ -1,5 +1,7 @@
 # Project Name: Superstore_Dashboard
 
+## Introduction
+
 The Sales Superstore Dashboard project aims to analyze and visualize the sales performance of a retail company using the Sales Superstore dataset. The dashboard provides actionable insights into sales trends, customer behavior, product performance, geographical analysis, order and shipping data, and profitability. By leveraging data visualization and analytics, the dashboard helps optimize sales, improve customer management, and drive business growth.
 
 ## Problems aimed to solve
