@@ -25,6 +25,14 @@ The Sales Superstore Dashboard project aims to analyze and visualize the sales p
 
 ## Results
 
+- Among all the regions, Asia Pacific exhibits the highest sales, while Africa has the lowest sales across the board.
+
+- The year 2015 stands out with the highest sales compared to all the other years in the dataset.
+
+- The consumer segment demonstrates the highest sales volume, followed by the corporate segment, and finally the home offices segment.
+
+- The product with the maximum profit in the dataset is the Ebico Electric Binding Machine, indicating strong profitability. Conversely, the Hover Stove is identified as the product with the highest loss, reflecting a negative impact on overall profitability.
+
 
 ### Limitations and challenges.
 
