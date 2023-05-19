@@ -64,6 +64,7 @@ Region      | Region associated with the person
 
 <p align="left"> <img src="https://drive.google.com/uc?export=download&id=1XAod5WzKyg9xUVrg51IuooYHzaKLEyUz" alt="Orders_table" /> </p>
 
+
 ## Methodology
 
 - **Dataset Preparation**: The Superstore sales data is obtained and imported into Power Query for data cleaning and transformation.
