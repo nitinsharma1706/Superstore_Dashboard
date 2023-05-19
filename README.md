@@ -1,4 +1,4 @@
-# Superstore_Dashboard
+# Project Name: Superstore_Dashboard
 
 The Sales Superstore Dashboard project aims to analyze and visualize the sales performance of a retail company using the Sales Superstore dataset. The dashboard provides actionable insights into sales trends, customer behavior, product performance, geographical analysis, order and shipping data, and profitability. By leveraging data visualization and analytics, the dashboard helps optimize sales, improve customer management, and drive business growth.
 
@@ -8,6 +8,50 @@ The Sales Superstore Dashboard project aims to analyze and visualize the sales p
 - Geographical Analysis and Market Insights
 - Order and Shipping Analysis
 - Profitability and Cost Analysis
+
+## Data Description
+
+- Table 1: Orders
+
+Column Name     | Description
+----------------|-------------------------------------
+Order Date      | The date when the order was placed
+Ship Date       | The date when the order was shipped
+Ship Mode       | The mode of shipment for the order
+Customer ID     | Unique identifier for each customer
+Customer Name   | Name of the customer
+Segment         | Market segment to which the customer belongs
+Postal Code     | Postal code of the customer's location
+City            | City where the customer is located
+State           | State where the customer is located
+Country         | Country where the customer is located
+Region          | Region where the customer is located
+Market          | Market segment to which the customer belongs
+Product ID      | Unique identifier for each product
+Category        | Category of the product
+Sub-Category    | Sub-category of the product
+Product Name    | Name of the product
+Sales           | Total sales revenue for the order
+Quantity        | Quantity of products ordered
+Discount        | Discount applied to the order
+Profit          | Profit earned from the order
+Shipping Cost   | Cost of shipping the order
+Order Priority  | Priority level of the order
+
+- Table 2: Returns
+
+Column Name | Description
+------------|------------------------------------
+Returned    | Indicates whether the order was returned or not
+Order ID    | Unique identifier for each order
+Region      | Region where the order was placed or returned
+
+- Table 3: People
+
+Column Name | Description
+------------|------------------------------------
+Person      | Name or identifier of a person
+Region      | Region associated with the person
 
 ## Methodlogy
 
